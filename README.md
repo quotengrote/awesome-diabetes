@@ -19,3 +19,6 @@ A curated list of diabetes resources and repositories.
 
 ## Misc
 * [Awesome-CGM](https://github.com/irinagain/Awesome-CGM) - a collection of links to publicly available continuous glucose monitoring (CGM) data
+
+## Algorithms
+* [oref0](https://github.com/openaps/oref0) - The open reference implementation of the reference design of oref0
