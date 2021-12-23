@@ -22,3 +22,7 @@ A curated list of diabetes resources and repositories.
 
 ## Algorithms
 * [oref0](https://github.com/openaps/oref0) - The open reference implementation of the reference design of oref0
+
+## Windows Apps
+* [GlucoseTray](https://github.com/Delubear/GlucoseTray) - Tray Icon for displaying current BG information in taskbar.
+* [Trayscout](https://github.com/ThielHater/Trayscout) - This lightweight Nightscout client for Windows will display your latest blood glucose value and trend in the system tray. If you click on the icon, a blood glucose diagram will be shown.
