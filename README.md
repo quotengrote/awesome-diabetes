@@ -26,3 +26,7 @@ A curated list of diabetes resources and repositories.
 ## Windows Apps
 * [GlucoseTray](https://github.com/Delubear/GlucoseTray) - Tray Icon for displaying current BG information in taskbar.
 * [Trayscout](https://github.com/ThielHater/Trayscout) - This lightweight Nightscout client for Windows will display your latest blood glucose value and trend in the system tray. If you click on the icon, a blood glucose diagram will be shown.
+
+
+## Android Apps
+* [sattiv](https://github.com/bolattleubayev/sattiv) - A nightscout Follower App
